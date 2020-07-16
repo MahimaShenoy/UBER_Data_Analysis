@@ -15,7 +15,7 @@ We can perform our project analysis in four steps.
 #### Step 3: Transforming the dataset
 #### Step 4: Visualizing the dataset
 
-The entire code is available on [Github](Uber_data_analysis.ipynb).
+The entire code is available on [Github](Uber_data.ipynb).
 
 I have created the [blog](https://mahimashenoy.github.io/) that explains the entire implementation of the project:
 
